@@ -1,0 +1,28 @@
+{
+  "id": "li.itp.govee-bt",
+  "version": "1.0.0",
+  "compatibility": ">=5.0.0",
+  "sdk": 3,
+  "platforms": [
+    "local"
+  ],
+  "name": {
+    "en": "Govee BT"
+  },
+  "description": {
+    "en": "Add support for Govee Bluetooth temperature and humidity sensors."
+  },
+  "category": [
+    "climate"
+  ],
+  "permissions": [],
+  "images": {
+    "small": "/assets/images/small.png",
+    "large": "/assets/images/large.png",
+    "xlarge": "/assets/images/xlarge.png"
+  },
+  "author": {
+    "name": "Jakob Birnbaumer",
+    "email": "j+homey@birnbaumer.com"
+  }
+}
